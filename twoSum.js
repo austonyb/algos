@@ -29,7 +29,6 @@ var twoSum = function(nums, target) {
         }
     }
     return returnArr.slice(0, 2)
-    return returnArr
 }
 
 const test1 = [2,7,11,15]
